@@ -1,1 +1,6 @@
-{"books": "book1", "book2"}
+{
+  "books": {
+    "book1": "lua"
+    "book2": "learning"
+  }
+}
