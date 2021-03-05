@@ -1,6 +1,6 @@
 {
-  "books": {
-    "book1": "lua",
-    "book2": "learning"
+  "messages": {
+    "message1": "lua",
+    "message2": "learning"
   }
 }
